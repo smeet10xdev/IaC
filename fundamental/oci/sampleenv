@@ -1,0 +1,12 @@
+# IAM
+compartment_ocid=
+domain_ocid=
+grp_ocid=
+policy_ocid=
+
+# [DEFAULT]
+user=
+fingerprint=
+tenancy=
+region=
+key_file=
