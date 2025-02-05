@@ -45,6 +45,7 @@ iac/
 ```
 
 ### [Create a VCN using own terraform config](https://github.com/oracle-terraform-modules/terraform-oci-vcn?tab=readme-ov-file)
+`terraform apply -var="cloud_provider=oci" -var-file="oci/variables.tf" `
 #### The resources are organized into stacks, which you create and provision using jobs.
 
 [//]: # ([Config Video]&#40;https://www.youtube.com/watch?v=MjmikFgvKvI&#41;)

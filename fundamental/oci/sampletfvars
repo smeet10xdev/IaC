@@ -5,8 +5,8 @@ grp_ocid=
 policy_ocid=
 
 # [DEFAULT]
-user=
-fingerprint=
-tenancy=
+user_id=
+api_fingerprint=
+tenancy_id=
 region=
-key_file=
+api_private_key_path=
